@@ -27,8 +27,8 @@ Interested in entire web development spectrum, particularly on the front end and
 
 #
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Augusto's Github Stats" src="https://gez-readme-stats.vercel.app/api?username=GeZudo&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Augusto's Github Stats" src="https://gez-readme-stats.vercel.app/api?username=aumalves&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true" /></a>
 
-![](https://komarev.com/ghpvc/?username=gezudo&style=flat-square&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=aumalves&style=flat-square&color=lightgrey)
 
 </div>
